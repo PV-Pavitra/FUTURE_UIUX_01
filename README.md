@@ -32,8 +32,4 @@ Plateful was created to:
 - **Figma** – For UI design and prototyping.  
 - **GitHub** – For version control and project showcase.
 
----
 
-## 🔗 Prototype Access
-
-👉 [View the Plateful Prototype]([https://www.figma.com/](https://www.figma.com/design/Mf2yVgiOFJ94sdhBQErRa1/Plateful?t=YGahEBKImBfe2yoE-1))  
